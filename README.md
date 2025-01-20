@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+A brief description of the role goes here. A sample ansible role
 
 Requirements
 ------------
